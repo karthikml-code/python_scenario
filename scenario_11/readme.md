@@ -2,4 +2,5 @@ Here we will search the given list for the start and end of the pattern. The res
 
 eg:
 list = ['hello','this is the text to return','world']
+
 we will return the texts inbetween hello world
